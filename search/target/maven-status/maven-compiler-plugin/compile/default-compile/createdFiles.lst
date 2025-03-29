@@ -1,0 +1,12 @@
+org\example\LoadReports.class
+org\example\report\Report.class
+org\example\result\ResultWriter.class
+org\example\report\ReportReader.class
+org\example\Main.class
+org\example\search\SimpleSearchStrategy.class
+org\example\ProcessQueries.class
+org\example\result\JSONResultWriter.class
+org\example\report\CSVReportReader.class
+org\example\search\SearchStrategy.class
+org\example\result\Result.class
+org\example\LoadQueries.class
